@@ -11,10 +11,6 @@ Extensible: The session can be used for interacting with Suno’s API endpoints 
 Installation:
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/suno-login-automation.git
-cd suno-login-automation
 Install dependencies:
 
 This project requires Playwright to be installed. You can install it using pip:
